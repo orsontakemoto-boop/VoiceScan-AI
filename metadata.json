@@ -1,0 +1,7 @@
+{
+  "name": "VocalScan AI",
+  "description": "Analisador de voz avançado com espectrograma em tempo real e análise de perfil vocal via IA.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
